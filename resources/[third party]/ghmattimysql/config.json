@@ -1,0 +1,7 @@
+{
+    "user": "root",
+    "password": "yep",
+    "host": "localhost",
+    "port": 3306,
+    "database": "rdr2_rp"
+}
